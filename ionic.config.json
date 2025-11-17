@@ -1,0 +1,7 @@
+{
+  "name": "radioClock",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
